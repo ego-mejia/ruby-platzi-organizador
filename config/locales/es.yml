@@ -29,3 +29,5 @@
 
 es:
   hello: "Hola mundo"
+  categories:
+    new_category: "Nueva Categoría"
